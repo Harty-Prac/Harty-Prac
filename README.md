@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Harty-Prac/Harty-Prac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Harty Prac
 
-Here are some ideas to get you started:
+💻 **Web & App Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **web applications, backend systems, and mobile apps.**
+
+</div>
+
+---
+
+<img align="right" src="tenor.gif" width="180">
+
+### 👨‍💻 About Me
+
+* 💡 Passionate about **building real systems**
+* 🧠 Currently learning **advanced pen testing**
+* 🚀 Building projects using **Laravel & python & java**
+* 🗄️ Working with **SQL & PL/SQL databases**
+
+---
+
+## 🧠 Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge\&logo=databricks\&logoColor=white)
+![PLSQL](https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+---
+
+## ⚙️ Frameworks & Tools
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
+
+---
+
+## 🚀 What I Build
+
+* Web Applications using **Laravel**
+* Backend APIs using **PHP**
+* Mobile Apps using **Flutter**
+* Database Systems using **SQL / PL-SQL**
+
+---
+
+## 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ditol0&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditol0&layout=compact&theme=tokyonight" />
+</p>
+---
+
+<div align="center">
+
+⭐ **Always building something new**
+
+</div>
